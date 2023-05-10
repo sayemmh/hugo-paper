@@ -31,7 +31,7 @@ Hugo themes: [themes.gohugo.io/hugo-paper](https://themes.gohugo.io/hugo-paper/)
 Inside the folder of your Hugo project, run:
 
 ```bash
-git submodule add https://github.com/nanxiaobei/hugo-paper themes/paper
+git submodule add https://github.com/sayemmh/hugo-paper themes/paper
 ```
 
 Open `config.toml`, change `theme` to `"paper"`:
@@ -81,7 +81,7 @@ comments = false                            # disable comments for a specific pa
 
 ## License
 
-[MIT License](https://github.com/nanxiaobei/hugo-paper/blob/main/LICENSE) (c) [nanxiaobei](https://lee.so/)
+[MIT License](https://github.com/sayemmh/hugo-paper/blob/main/LICENSE) (c) [nanxiaobei](https://lee.so/)
 
 ## FUTAKE
 
